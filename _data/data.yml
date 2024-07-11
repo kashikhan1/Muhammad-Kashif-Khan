@@ -3,44 +3,40 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Muhammad Kashif Khan
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: m.kashi.khan93.gmail.com
+    phone: +92 345 5064051
+    timezone: Europe/Rome
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+#     website: blog.webjeda.com #do not add http://
+    linkedin: muhammad-kashif-khan
+#     xing: alandoe
+    github: kashikhan1
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@kashikhan_'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://github.com/kashifkhan789/online-cv/blob/3d5c286e7f997909c7efae2798f9b8debc13220e/assets/Muhammad's%20%20Resume.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Urdu
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
@@ -51,215 +47,110 @@ sidebar:
         - item: Snowboarding
           link:
 
-        - item: Cooking
+        - item: Football
           link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      6+ years of professional experience in software design and development.
+      Actively involved in object-oriented design and implementation of software components.
+      Experience in software development, and coordination with clients for demo purposes.
+      Expertise in taking over existing applications and making the fixes/updates after working closely with both internal and external stakeholders.
+      Development experience in NodeJs, ReactJs, REST API development, HTML, CSS3, MS - SQL, Postgresql, MongoDB, AngularJs, Ionic, Kafka, RabbitmQ, Python, AWS (EC2, S3 Bucket, Load Balancer).
+      Have an appreciation for the peace of mind that comes with well-tested, documented code.
+      Knowledge of projects/threads using tools like Jira and Azure Tickets etc.
+      Comfortable participating in collaborative discussions.
+      Familiarity with basic Agile principles/Scrum methodology.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BS Software Engineering
+        university: University of Engineering & Technology , Taxila
+        time: 2011 - 2015
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+            - Studies focused on software design and development with Distributed Computing as major.
+            - Related Courses: Distributed Systems, Operating Systems, Object Oriented Programming, Parallel Computing,Computer Networks, Network Security, Database Systems, Computer Architecture, Software Construction
 experiences:
     title: Experiences
     info:
       - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+        time: 01/2022 - Present
+        company: Devsurge, Pakistan
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Delegate tasks to programmers and software developers
+            - Coordinate code inspection protocols to test the performance quality of products
+            - Assist software engineers in applying feedback from code inspection and PR reviews
+            - Establish deadlines for team members to achieve milestones for the projects
+            - Attend meetings with clients, stakeholders and upper management to discuss the project objectives
+      - role: Senior Full Stack Developer
+        time: 05/2018 - 01/2022
+        company: Glasc.io, South Africa
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Responsible for developing high-quality software design and architecture Identifying, prioritising and executing tasks in the software development life cycle
+            - Developing tools and applications by producing clean, efficient code
+            - Automating tasks through appropriate tools and scripting; reviewing and debugging code.            
+      - role: Full stack Developer
+        time: 06/2017 - 04/2018
+        company: Barefoot Studio, Belgium
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
+            - Developing front end website architecture and Designing user interactions on web pages.
+            - Developing back end website applications and Creating servers and databases for functionality and Designing and developing APIs.
+            - Meeting both technical and consumer needs.
+      - role: Software Design Engineer
+        time: 12/2015 - 05/2017
+        company: Teresol, Rawalpindi Pakistan
+        details: |
+            - analyse user requirements.
+            - research, design and write new software programs (e.g. business applications or computer games) and computer operating systems.
+            - write and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project.
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Oware (Warehouse Management System)
+        link: "https://oware.co"
+        tagline: "To Offer scalable and tech-driven Warehousing and Distribution to B2B and retail through a connected world of distribution via a network of fulfillments centers and third-party logistics service providers."
+#     Role & Accomplishments:
+# tagline: "React Js, MY-SQL ,Redis, MaterialUI, Socket.io, AWS, Github, github pipeline"
+      - title: Turing (REAL-TIME WEIGHT IN MOTION)
+        link: "https://turing-insights.com"
+        tagline: "Turing Insights solves challenges in the bulk transport industry, by having accurate real-time visibility on payloads and vehicles."
+      
+      - title: Kowo
+        link: "https://www.kowo.io"
+        tagline: "Kowo is a mobile and web application organizing and motivating inter-company carpooling.Kowo help colleagues to improve their daily commuting in an ecologic, economic and stress-free way."
+      
+      - title: Decmocy
+        link: "https://democy.de"
+        tagline: "This app offers a platform where individuals and companies can conveniently conduct target surveys and acquire data from qualified respondents. Using the sponsor portal, you can filter respondents through age, gender, country, and more options! Real Research offers a highly secure, efficient, and reliable ecosystem for data gathering. Our main goal is to help business owners produce and deliver strong research backed-up by real and un-manipulated data."
+      
+      - title: Invoice
+        tagline: "Invoice Simple is a fast and easy invoice app for sending invoices and estimates to your customers."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: JavaScript (TypeScript, ES9)/ Node.js
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Angular / React.js / Python
+        level: 70%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: PostgreSQL / Mysql / Cassandra / MongoDB / Apache Kafka / Redis / rabbitMQ / Elasticsearch
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Docker / Kubernetes / Traefik / AWS (EC2, S3 Bucket, Load Balancer)
+        level: 65%
+
+      - name: Next.js / Nest.js / Ionic / Express.js / MaterialUi / Antd
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
