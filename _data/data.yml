@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Muhammad Kashif Khan
-    tagline: Full Stack Developer
+    tagline: Senior Node.js Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -53,7 +53,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      6+ years of professional experience in software design and development.
+      7+ years of professional experience in software design and development.
       Actively involved in object-oriented design and implementation of software components.
       Experience in software development, and coordination with clients for demo purposes.
       Expertise in taking over existing applications and making the fixes/updates after working closely with both internal and external stakeholders.
@@ -80,8 +80,18 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 01/2022 - Present
+      - role: Lead Developer / Senior Full Stack Developer
+        time: 05/2022 - present
+        company: Ali Square, Pakistan
+        details: |
+            - Delegate tasks to programmers and software developers
+            - Coordinate code inspection protocols to test the performance quality of products
+            - Assist software engineers in applying feedback from code inspection and PR reviews
+            - Establish deadlines for team members to achieve milestones for the projects
+            - Attend meetings with clients, stakeholders and upper management to discuss the project objectives
+
+      - role: Lead Developer / Senior Full Stack Developer
+        time: 01/2022 - 04/2023
         company: Devsurge, Pakistan
         details: |
             - Delegate tasks to programmers and software developers
