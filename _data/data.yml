@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Muhammad Kashif Khan
-    tagline: Senior Node.js Developer
+    tagline: Senior Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: m.kashi.khan93.gmail.com
+    email: imkashifkhanofficial@gmail.com
     phone: +92 345 5064051
     timezone: Europe/Rome
     citizenship:
@@ -53,7 +53,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      7+ years of professional experience in software design and development.
+      8+ years of professional experience in software design and development.
       Actively involved in object-oriented design and implementation of software components.
       Experience in software development, and coordination with clients for demo purposes.
       Expertise in taking over existing applications and making the fixes/updates after working closely with both internal and external stakeholders.
@@ -121,7 +121,15 @@ experiences:
             - research, design and write new software programs (e.g. business applications or computer games) and computer operating systems.
             - write and test code, refining and rewriting it as necessary and communicate with any programmers involved in the project.
 projects:
+    title: Projects
     assignments:
+     - title: Ride Pro (Rent Car and Ride Sharing
+       tagline: "ride-sharing and car rental services into a single, seamless platform. Users can either book affordable shared rides or rent a car for personal use, catering to diverse mobility needs. With real-time tracking, secure payments, and transparent pricing, the app ensures a reliable and user-friendly experience. Designed for scalability, it connects drivers, car owners, and passengers through an efficient and tech-driven ecosystem."
+
+      - title: AttaQ (Property Management System)
+        link: "https://zameen.alisquare.com"
+        tagline: "web application designed to help users search for and discover real estate properties based on various criteria such as location, price range, and property type. It provides an intuitive interface for browsing property listings, complete with detailed descriptions, images, and contact information for real estate agents."
+
       - title: Oware (Warehouse Management System)
         link: "https://oware.co"
         tagline: "To Offer scalable and tech-driven Warehousing and Distribution to B2B and retail through a connected world of distribution via a network of fulfillments centers and third-party logistics service providers."
