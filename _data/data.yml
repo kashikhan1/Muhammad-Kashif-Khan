@@ -123,8 +123,8 @@ experiences:
 projects:
     title: Projects
     assignments:
-     - title: Ride Pro (Rent Car and Ride Sharing
-       tagline: "ride-sharing and car rental services into a single, seamless platform. Users can either book affordable shared rides or rent a car for personal use, catering to diverse mobility needs. With real-time tracking, secure payments, and transparent pricing, the app ensures a reliable and user-friendly experience. Designed for scalability, it connects drivers, car owners, and passengers through an efficient and tech-driven ecosystem."
+      - title: Ride Pro (Rent Car and Ride Sharing
+        tagline: "ride-sharing and car rental services into a single, seamless platform. Users can either book affordable shared rides or rent a car for personal use, catering to diverse mobility needs. With real-time tracking, secure payments, and transparent pricing, the app ensures a reliable and user-friendly experience. Designed for scalability, it connects drivers, car owners, and passengers through an efficient and tech-driven ecosystem."
 
       - title: AttaQ (Property Management System)
         link: "https://zameen.alisquare.com"
