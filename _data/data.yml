@@ -16,7 +16,7 @@ sidebar:
     phone: +92 345 5064051
     timezone: Europe/Rome
     citizenship:
-#     website: blog.webjeda.com #do not add http://
+    website: https://kashif.weinnovate.net
     linkedin: muhammad-kashif-khan
 #     xing: alandoe
     github: kashikhan1
@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/kashifkhan789/online-cv/blob/3d5c286e7f997909c7efae2798f9b8debc13220e/assets/Muhammad's%20%20Resume.pdf
+    pdf: https://github.com/kashikhan1/Muhammad-Kashif-Khan/blob/master/assets/Muhammad's%20Resume.pdf
 
     languages:
       title: Languages
